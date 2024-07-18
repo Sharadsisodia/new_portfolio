@@ -9,7 +9,6 @@ This repository contains the code for a personal portfolio website built using H
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -69,27 +68,27 @@ This repository contains the code for a personal portfolio website built using H
 - Add or update projects and other content in the Django admin interface.
 
 ## Project Structure
-portfolio/
-│
-├── portfolio/
-│ ├── settings.py
-│ ├── urls.py
-│ ├── wsgi.py
-│ └── ...
-│
-├── static/
-│ ├── css/
-│ ├── js/
-│ └── images/
-│
-├── templates/
-│ ├── resume.html
-│ ├── index.html
-│ └── ...
-│
-├── manage.py
-├── requirements.txt
-└── README.md
+portfolio/ <br>
+│<br>
+├── portfolio/ <br>
+│ ├── settings.py <br>
+│ ├── urls.py <br>
+│ ├── wsgi.py <br>
+│ └── ... <br>
+│<br>
+├── static/ <br>
+│ ├── css/ <br>
+│ ├── js/ <br>
+│ └── images/ <br>
+│ <br>
+├── templates/ <br>
+│ ├── resume.html <br>
+│ ├── index.html <br>
+│ └── ... <br>
+│ <br>
+├── manage.py <br>
+├── requirements.txt <br>
+└── README.md <br>
 
 ## License
 
